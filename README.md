@@ -28,14 +28,14 @@ This Exercise Tracker application allows users to log their daily workouts, trac
    pip install -r requirements.txt
 
 3. Set up environment variables for API keys and authentication:
-  export APP_ID="your_nutritionix_app_id"
-  export API_KEY="your_nutritionix_api_key"
-  export USERNAME="your_sheety_username"
-  export PASSWORD="your_sheety_password"
-  export SHEET_ENDPOINT="your_sheety_endpoint"
+   export APP_ID="your_nutritionix_app_id"
+   export API_KEY="your_nutritionix_api_key"
+   export USERNAME="your_sheety_username"
+   export PASSWORD="your_sheety_password"
+   export SHEET_ENDPOINT="your_sheety_endpoint"
 
 
-4. Run the application:
+5. Run the application:
   python main.py
 
 ## Usage
